@@ -217,7 +217,7 @@ header {
 /* End Header */
 /* Start Landing Section */
 .landing {
-  background-image: url(../../images/desktop/image-header.jpg);
+  background-image: url(../images/desktop/image-header.jpg);
   background-size: cover;
   background-repeat: no-repeat;
   background-position: center;
@@ -225,7 +225,7 @@ header {
   padding-top: 90px;
   min-height: 100vh;
   @media #{$maxMobile} {
-    background-image: url(../../images/mobile/image-header.jpg);
+    background-image: url(../images/mobile/image-header.jpg);
     min-height: 80vh;
   }
   .intro {
