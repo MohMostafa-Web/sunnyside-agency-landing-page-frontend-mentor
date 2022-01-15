@@ -104,6 +104,7 @@ a {
 /* Start Components */
 .heading {
   font-family: $font-family-two;
+  font-weight: 900;
 }
 /* End Components */
 /***********************************************************************/
@@ -297,7 +298,7 @@ header {
         }
         .more-btn {
           display: block;
-          width: fit-content;
+          width: 125px;
           color: $very-dark-desaturated-blue;
           margin-top: 30px;
           padding: 0 8px;
